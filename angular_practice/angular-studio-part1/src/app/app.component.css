@@ -1,0 +1,8 @@
+
+.box {
+    display: flex;
+    padding: 40px;
+    border: white 2px solid;
+    margin: auto;
+    width: 50%;
+ }
